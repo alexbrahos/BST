@@ -1,4 +1,4 @@
-This BST will take any vector of integers and place them into a BST.
+This BST will take any sorted vector of integers and place them into a BST.
 
 The program will prompt the user for k and will then find the kth smallest element in the tree.
 
